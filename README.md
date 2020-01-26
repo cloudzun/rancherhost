@@ -1,7 +1,8 @@
-# laddervm
+# RacherHost
 
-git clone https://github.com/cloudzun/laddervm
+git clone https://github.com/cloudzun/rancherhost
 
-cd laddervm
+cd rancherhost
 
 bash setup.sh
+
